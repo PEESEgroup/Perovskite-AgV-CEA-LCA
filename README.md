@@ -1,1 +1,2 @@
-# Perovskite-AgV
+# Perovskite Agrivoltaic Greenhouse Life Cycle Assessment (LCA)
+This repository contains the complete dataset, simulation files, and statistical analyses supporting our study on semi-transparent perovskite (STP) agrivoltaic (AgV) greenhouses. Our work evaluates the energy savings, carbon footprint, and water use impacts of integrating STP photovoltaic glazing into greenhouse systems across diverse U.S. climates.
