@@ -20,7 +20,7 @@ This repository contains the complete dataset, simulation files, and statistical
 - **Greenhouse_Electric_Dehum.m**  
   Conventional greenhouse simulation with electric dehumidification.
 - **Greenhouse_Ventilation.m**  
-  Conventional greenhouse with passive ventilation.
+  Conventional greenhouse with ventilation-based dehumidification.
 
 ---
 
