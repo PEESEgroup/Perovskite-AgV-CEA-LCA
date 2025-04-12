@@ -1,4 +1,3 @@
-
 # 🌱 Perovskite Agrivoltaic Greenhouse Life Cycle Assessment (LCA)
 
 This repository contains the complete dataset, simulation files, and statistical analyses supporting our study on semi-transparent perovskite (STP) agrivoltaic (AgV) greenhouses. Our work evaluates the energy savings, carbon footprint, and water use impacts of integrating STP photovoltaic glazing into greenhouse systems across diverse U.S. climates.
@@ -60,3 +59,8 @@ This analysis is part of the first holistic *farm-to-fork* LCA evaluating the in
 ## 📎 Citation
 
 If you use this dataset or code, please cite the corresponding publication (TBD upon acceptance).
+
+
+## 🧾 Abstract
+
+Climate change, resource scarcity, and growing demand for high-quality produce pose major challenges to global food security and sustainability. Controlled environment agriculture offers resilience but is constrained by its high energy intensity, a challenge that can be addressed by integrating advanced photovoltaic (PV) technologies such as semi-transparent perovskites (STP). Here, we present the first holistic, “farm-to-fork” life cycle assessment investigating the synergy of STP PV and greenhouse horticulture. Using high-fidelity simulations across diverse U.S. climates, we show that STP agrivoltaic (AgV) greenhouses offer a transformative solution for sustainable food production, achieving up to 360.5 MWh/year energy savings in hot-humid climates and enabling widespread emission reductions of up to 38.9%. In arid regions, achieving substantial water savings of 0.447 m3/kg is contingent upon continued advancements in the power conversion efficiency. Despite concerns about stability, the substantial baseline consumption and resource savings outweigh additional impacts due to multi-round recycling of end-of-life solar devices. STP AgVs offer a scalable, near-term solution for perovskite solar deployment, with potential applicability across thousands of hectares of U.S. greenhouse area in global agri-food systems.
