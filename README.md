@@ -34,6 +34,8 @@ This repository contains the complete dataset, simulation files, and statistical
   LCA results for life cycle GHG emissions (kg CO₂-eq per kg of lettuce).
 - **Water Footprint.xlsx**  
   LCA results for water scarcity footprint (m³ world-eq per kg of lettuce).
+- **Impact of lifetime.xlsx**
+  Extended data quantifying the impact of solar device lifetime on carbon and water scarcity footprints.  
 
 ---
 
