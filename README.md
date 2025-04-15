@@ -35,7 +35,7 @@ This repository contains the complete dataset, simulation files, and statistical
 - **Water Footprint.xlsx**  
   LCA results for water scarcity footprint (m³ world-eq per kg of lettuce).
 - **Impact of lifetime.xlsx**  
-  Extended data quantifying the impact of solar device lifetime on carbon and water scarcity footprints.  
+  Extended data quantifying the impacts of solar device lifetime on carbon and water scarcity footprints.  
 
 ---
 
